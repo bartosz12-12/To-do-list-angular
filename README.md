@@ -1,4 +1,6 @@
-# Prosta aplikacja do robienia listy zadań napisana przy pomocy frameworku Angular
+# ToDoList Angular
+
+# Prosta aplikacja do robienia listy zadań
 ![image](https://github.com/bartosz12-12/To-do-list-angular/assets/73654110/85ed587b-a198-475f-808e-c42064659264)
 
 # Mozliwość dodawania kolejnych zadań
