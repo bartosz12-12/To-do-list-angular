@@ -9,3 +9,5 @@
 
 # Skalowanie pod telefony
 ![image](https://github.com/bartosz12-12/To-do-list-angular/assets/73654110/0626a16b-46a6-489e-a5f0-37cf67bedce2)
+
+# Projekt wykorzystuje Angular do zarządzania komponentami i servisami, wykorzystuje routowanie do nawigacji między widokami oraz wykorzystuje zewnętrzną bibliotekę do obsługi funkcji drag and drop.
