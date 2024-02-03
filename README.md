@@ -1,5 +1,5 @@
 # Prosta aplikacja do robienia listy zadań napisana przy pomocy frameworku Angular
-![image](https://github.com/bartosz12-12/To-do-list-angular/assets/73654110/dc7ac228-ddcb-4eb3-acf8-dbc0824cee78)
+![image](https://github.com/bartosz12-12/To-do-list-angular/assets/73654110/85ed587b-a198-475f-808e-c42064659264)
 
 # Mozliwość dodawania kolejnych zadań
 ![image](https://github.com/bartosz12-12/To-do-list-angular/assets/73654110/596344f6-5398-4194-93b1-38a58e9da370)
