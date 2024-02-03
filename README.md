@@ -1,27 +1,11 @@
-# TodoList
+# Prosta aplikacja do robienia listy zadań napisana przy pomocy frameworku Angular
+![image](https://github.com/bartosz12-12/To-do-list-angular/assets/73654110/dc7ac228-ddcb-4eb3-acf8-dbc0824cee78)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.9.
+# Mozliwość dodawania kolejnych zadań
+![image](https://github.com/bartosz12-12/To-do-list-angular/assets/73654110/596344f6-5398-4194-93b1-38a58e9da370)
 
-## Development server
+# Drag and drop
+![image](https://github.com/bartosz12-12/To-do-list-angular/assets/73654110/537c029a-ee75-4936-ab84-39bd85c6d23d)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+# Skalowanie pod telefony
+![image](https://github.com/bartosz12-12/To-do-list-angular/assets/73654110/0626a16b-46a6-489e-a5f0-37cf67bedce2)
